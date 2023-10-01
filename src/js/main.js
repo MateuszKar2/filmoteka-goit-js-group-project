@@ -43,7 +43,6 @@ const configNotiflix = {
 };
 
 
-
 const loadHome = async event => {
   event.preventDefault();
   homeLink.classList.add('header__nav-link--underline');
